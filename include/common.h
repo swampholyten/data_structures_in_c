@@ -7,6 +7,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-typedef int ds_data_t;
+typedef int T;
 
 #endif
